@@ -1,0 +1,157 @@
+{
+	"title": "Cool Title",
+	"store": {
+		"telegram": "https://t.me/wawceo"
+	},
+	"top_profiles": [
+		{
+			"id": "portfolio",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "portfolio"
+		},
+		{
+			"id": "portfolio",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "portfolio"
+		},
+		{
+			"id": "portfolio",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "portfolio"
+		}
+	],
+	"profiles": [
+		{
+			"id": "portfolio",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "portfolio"
+		},
+		{
+			"id": "portfolio",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "portfolio"
+		},
+		{
+			"id": "portfolio",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "portfolio"
+		},
+		{
+			"id": "portfolio",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "portfolio"
+		}
+	],
+	"drugs": [
+		{
+			"id": "drug",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "product"
+		},
+		{
+			"id": "drug",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "product"
+		},
+		{
+			"id": "drug",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "product"
+		}
+	],
+	"pharmacies": [
+		{
+			"id": "pharmacy",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "service"
+		},
+		{
+			"id": "pharmacy",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "service"
+		},
+		{
+			"id": "pharmacy",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "service"
+		}
+	],
+	"hospital": [
+		{
+			"id": "service",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "service"
+		},
+		{
+			"id": "service",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "service"
+		},
+		{
+			"id": "service",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "service"
+		}
+	],
+	"services": [
+		{
+			"id": "service",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "service"
+		},
+		{
+			"id": "service",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "service"
+		},
+		{
+			"id": "service",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "service"
+		}
+	],
+	"articles": [
+		{
+			"id": "article",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "article"
+		},
+		{
+			"id": "article",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "article"
+		},
+		{
+			"id": "article",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "article"
+		}
+	]
+}
